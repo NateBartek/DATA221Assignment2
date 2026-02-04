@@ -1,0 +1,5 @@
+<h2 id="Foundations">Foundations</h2> 
+<h2 id="Etymology">Etymology</h2> 
+<h2 id="Data_science_and_data_analysis">Data science and data analysis</h2> 
+<h2 id="Cloud_computing_for_data_science">Cloud computing for data science</h2> 
+<h2 id="Ethical_consideration_in_data_science">Ethical consideration in data science</h2> 
